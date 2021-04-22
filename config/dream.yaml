@@ -1,0 +1,4 @@
+task_name: "dream"
+
+data_dir: "data/DREAM"
+output_dir: "output"
